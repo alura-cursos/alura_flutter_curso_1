@@ -40,6 +40,6 @@ O projeto do curso consiste em um organizador pessoal de tarefas, com gameficaç
 
 ## 📚 Mais informações do curso
 
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso]() que desenvolve o projeto desde o começo!
+Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/flutter-widgets-stateless-stateful-imagens-animacoes) que desenvolve o projeto desde o começo!
 
-Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/course/flutter-widgets-stateless-stateful-imagens-animacoes)
+Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
